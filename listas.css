@@ -9,7 +9,8 @@ li {
 }
 
 #ul2 {
-    list-style-image: url('http://k19.com.br/figs/k02-logo-small.png');
+  list-style-image: url("https://icons.veryicon.com/png/128/miscellaneous/simplify-icon/outdoors-tree-valley-3.png");
+  list-style-position:inside;
 }
 
 ol {
